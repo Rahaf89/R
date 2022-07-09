@@ -24,7 +24,6 @@ prime <- function(n){
 } 
 ''')
 
-
 number = int(input("Introduce un número: "))
 
 ro.r(codigo_r)
